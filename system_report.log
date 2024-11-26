@@ -1,0 +1,31 @@
+[91mSystem Report - Mon Sep 30 10:50:18 PM EDT 2024
+[0m
+[92mDevice Information[m
+Hostname: 		localhost
+Domain: 		localdomain
+
+[92mNetwork Information[m
+IP Address: 		192.168.201.236
+Gateway: 		192.168.207.254
+Network Mask: 		255.255.240.0
+DNS1: 			129.21.3.17
+DNS2: 			129.21.4.18
+
+[92mOS Information[m
+Operating System: 	Rocky Linux
+Operating Version: 	9.4
+Kernel Version: 	5.14.0-427.33.1.el9_4.x86_64
+
+[92mStorage Information[m
+Hard Drive Capacity: 	45G
+Available Space: 	40G
+
+[92mProcessor Information[m
+CPU Model: 		Intel(R) Xeon(R) Silver 4410T
+Number of Processors: 	2
+Number of Cores: 	2
+
+[92mMemory Information[m
+Total RAM: 		7.5Gi
+Available RAM: 		5.0Gi
+
